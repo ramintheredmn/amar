@@ -59,7 +59,7 @@ while program_vaz:
         while program_vaz:
             # Getting multiple inputs from user
             x = [int(x) for x in input("adad hara vared konid : ").split()]
-            print("miyangin : ", (sumsum(x)/len(x)), "\n\n\nmiyane : ",miyane(x),"\n\n\nvarians : ", varians(x), "\n\n\nenheraf meyar : ", math.sqrt(varians(x)), "\n\n\n\nzarbeshon : ", zarzar(x))
+            print("miyangin : ", (sumsum(x)/len(x)), "\n\n\nmiyane : ",miyane(x),"\n\n\nvarians : ", varians(x), "\n\n\nenheraf meyar : ", math.sqrt(varians(x)), "\n\n\n\nHasel zarbeshan : ", zarzar(x))
 
             
             a = input("\n\n\nDobare ?  ('bale' , 'kheyr') : ")
