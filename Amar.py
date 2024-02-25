@@ -41,7 +41,7 @@ print ("""
     **** LOTFAN DAR VARED KARDAN
     VORODI HA DEGGAT KONID ****
 
-    Telegram : @imraminrd
+    Telegram : @pharminn
     instagram : ramin__rafiee
 
     Good Luck
